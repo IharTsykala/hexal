@@ -1,1 +1,1 @@
-[Hexal](https://IharTsykala.github.io/hexal)
+[hexal](https://IharTsykala.github.io/hexal)
